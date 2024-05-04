@@ -1,12 +1,12 @@
 public class ProcessoSeletivo {
 	public static void main(String[] args) {
-		//salario base maior que salario pretendido
+		//Salario base maior que salario pretendido
 		case1(2000.0, 1900.0);
 		
-		//salario base igual que salario pretendido
+		//Salario base igual que salario pretendido
 		case1(2000.0, 2000.0);
 		
-		//salario base igual que salario pretendido
+		//Salario base igual que salario pretendido
 		case1(2000.0, 2100.0);
 	}
 	static void case1(double salarioBase, double salarioPretendido) {
